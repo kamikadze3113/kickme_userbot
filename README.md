@@ -1,1 +1,5 @@
-# kickme_userbot
+# Module kickme Friendly Telegram Bot
+Модуль для юзербота (Friendly Telegram Bot)
+Модуль реагирует на: .kickme + текст(необязательно)
+Делает: Удаляет вас с группы + отправляет гиф + отправляет текст(если указан) если не указан отправляет "Я ливаю с этого дурдома"
+#Python one love
